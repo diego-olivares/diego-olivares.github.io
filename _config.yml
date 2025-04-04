@@ -23,13 +23,13 @@ repository               : "diego-olivares/diego-olivares.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Diego Olivares"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Bachelor of Science in Computer Science: threads in Info Internetworks and Media"
+  location         : "Atlanta"
+  employer         : "Georgia Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "diegoolivaresstudent02@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
